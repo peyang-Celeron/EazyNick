@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.spongepowered:configurate-core:4.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/spongepowered/configurate-core/4.0.0-SNAPSHOT/configurate-core-4.0.0-20201114.090336-56.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/spongepowered/configurate-core/4.0.0-SNAPSHOT/configurate-core-4.0.0-20201114.090336-56-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/spongepowered/configurate-core/4.0.0-SNAPSHOT/configurate-core-4.0.0-20201114.090336-56-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

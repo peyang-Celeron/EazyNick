@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com:skinsrestorer:13.8.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/skinsrestorer/13.8.4-SNAPSHOT/skinsrestorer-13.8.4-20200909.131422-11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/skinsrestorer/13.8.4-SNAPSHOT/skinsrestorer-13.8.4-20200909.131422-11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/skinsrestorer/13.8.4-SNAPSHOT/skinsrestorer-13.8.4-20200909.131422-11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <autoDetectTypes>
+          <platformType>SPIGOT</platformType>
+          <platformType>BUKKIT</platformType>
+        </autoDetectTypes>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: com:skinsrestorer:13.8.4-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.github.PEXPlugins.PermissionsEx:permissionsex-api:master-STABLE-1.23.1-ga2fbef4-366" level="project" />
+    <orderEntry type="library" name="Maven: io.projectreactor:reactor-core:3.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.reactivestreams:reactive-streams:1.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.pcollections:pcollections:3.1.4" level="project" />
+    <orderEntry type="library" name="Maven: net.kyori:adventure-api:4.1.1" level="project" />
+    <orderEntry type="library" name="Maven: net.kyori:examination-api:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: net.kyori:examination-string:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.spongepowered:configurate-core:4.0.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: io.leangen.geantyref:geantyref:1.3.11" level="project" />
+    <orderEntry type="library" name="Maven: org.checkerframework:checker-qual:3.7.1" level="project" />
+    <orderEntry type="library" name="Maven: org.immutables:value:annotations:2.8.8" level="project" />
+    <orderEntry type="library" name="Maven: org.immutables:builder:2.8.8" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: net.kyori:adventure-text-serializer-plain:4.1.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: fr.xephi:authme:5.6.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: de.dytanic.cloudnet:cloudnet-api-bridge:2.1.17" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.github.MilkBowl:VaultAPI:1.7" level="project" />
+    <orderEntry type="library" name="Maven: com.github.sgtcaze:NametagEdit:master-6f1532540d-1" level="project" />
+    <orderEntry type="library" name="Maven: com.github.NEZNAMY:TAB-API:2.8.8" level="project" />
+    <orderEntry type="library" name="Maven: com.googlecode.json-simple:json-simple:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-all:4.1.51.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: net.luckperms:api:5.2" level="project" />
+    <orderEntry type="library" name="Maven: com.github.PlaceholderAPI:PlaceholderAPI:2.10.9" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains:annotations:19.0.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.mojang:authlib:1.5.21" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:17.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.commons:commons-lang3:3.3.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.logging.log4j:log4j-core:2.0-beta9" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: commons-codec:commons-codec:1.9" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.logging.log4j:log4j-api:2.0-beta9" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.2.4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.google.code.findbugs:jsr305:2.0.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: commons-io:commons-io:2.4" level="project" />
+    <orderEntry type="library" name="Maven: org.spigotmc:spigot-api:1.12-R0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: commons-lang:commons-lang:2.6" level="project" />
+    <orderEntry type="library" name="Maven: org.yaml:snakeyaml:1.18" level="project" />
+    <orderEntry type="library" name="Maven: net.md-5:bungeecord-chat:1.12-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.spigotmc:spigot:1.12.2-R0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.bukkit:bukkit:1.12.2-R0.1-SNAPSHOT" level="project" />
+  </component>
+</module>
